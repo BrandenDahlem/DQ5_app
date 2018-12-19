@@ -1,0 +1,12 @@
+name: DQ5_app
+title: DQ5_app
+username:
+account: brandendahlem
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 617634
+bundleId: 1772393
+url: https://brandendahlem.shinyapps.io/DQ5_app/
+when: 1545190076.76186
+asMultiple: FALSE
+asStatic: FALSE
